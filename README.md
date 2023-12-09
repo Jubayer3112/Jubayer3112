@@ -16,16 +16,16 @@ Hello, I'm Jubayer Hossain, a dedicated front-end web developer proficient in HT
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,firebase,github,wordpress,mongodb,express,react,nodejs,tailwind)](https://skillicons.dev)
 
 
-🔭 I’m currently working on honing my full-stack development skills, delving into Node.js and Express.js to strengthen my backend expertise and create more comprehensive web applications.
+🔭 Currently refining full-stack skills, diving into Node.js and Express.js to bolster backend expertise for comprehensive web apps.
 
-🌱 I’m currently learning the intricacies of backend development, exploring the power of Node.js and Express.js to seamlessly integrate with my front-end skills and enhance my capabilities as a web developer.
+🌱 Learning backend intricacies, exploring Node.js and Express.js to seamlessly integrate with front-end skills, enhancing overall web development capabilities.
 
-👯 I’m looking to collaborate on innovative web projects that require a fusion of creative front-end design and robust backend functionality, aiming to contribute my skills to dynamic and collaborative development teams.
+👯 Seeking collaborations on innovative web projects, merging creative front-end design with robust backend functionality for dynamic team contributions.
 
-🤔 I’m looking for help with mastering advanced backend concepts and best practices, seeking guidance from experienced developers to accelerate my learning curve in Node.js and Express.js.
+🤔 Looking for help mastering advanced backend concepts, eager for guidance from experienced developers to accelerate learning in Node.js and Express.js.
 
-💬 Ask me about front-end development, React, Tailwind CSS, Firebase, or anything related to crafting engaging and user-friendly web experiences.
+💬 Ask me about front-end development, React, Tailwind CSS, Firebase, or anything related to crafting engaging web experiences.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/jubayer-hossain-8b2499249/) or drop me an email at [ jubaerlikhon352@gmail.com ].
+📫 Connect on LinkedIn or email me at jubaerlikhon352@gmail.com.
 
-⚡ Fun fact: Outside of coding, I enjoy exploring new hiking trails and capturing the beauty of nature through photography.
+⚡ Fun fact: Beyond coding, I explore hiking trails and capture nature's beauty through photography.
