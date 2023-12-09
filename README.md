@@ -26,6 +26,6 @@ Hello, I'm Jubayer Hossain, a dedicated front-end web developer proficient in HT
 
 💬 Ask me about front-end development, React, Tailwind CSS, Firebase, or anything related to crafting engaging web experiences.
 
-📫 Connect on LinkedIn or email me at jubaerlikhon352@gmail.com.
+📫 Connect on https://www.linkedin.com/in/jubayer-hossain-8b2499249/ or email me at jubaerlikhon352@gmail.com.
 
 ⚡ Fun fact: Beyond coding, I explore hiking trails and capture nature's beauty through photography.
