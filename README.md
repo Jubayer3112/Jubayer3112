@@ -1,8 +1,10 @@
 ![My Image](Jubayer.png)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubayer3112&theme=algolia)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jubayer3112&theme=algolia&card_width=500 center" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jubayer3112&theme=algolia&card_width=500" alt="GitHub Streak" /></a>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubayer3112&theme=algolia&card_width=1280)](https://git.io/streak-stats)
 # About Me
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,firebase,github,wordpress,mongodb,express,react,nodejs,tailwind,)](https://skillicons.dev)
