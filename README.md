@@ -1,8 +1,8 @@
-### Hi there 👋
+![My Image](Jubayer.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jubayer3112&theme=algolia)](https://git.io/streak-stats)
+# About Me
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,firebase,github,wordpress,mongodb,express,react,nodejs,tailwind,)](https://skillicons.dev)
 
-**Jubayer3112/Jubayer3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-eerer
-gfgfh
+
