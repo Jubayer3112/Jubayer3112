@@ -5,6 +5,14 @@
 </p>
 
 # About Me
+
+<p>
+Hello, I'm Jubayer Hossain, a dedicated front-end web developer proficient in HTML, CSS, and JavaScript, with expertise in React, Tailwind CSS, and Firebase. My current focus is on expanding my skills to encompass Node.js and Express.js for backend development, with the ultimate goal of becoming a full-stack developer. I'm passionate about creating seamless and visually appealing user experiences, and I'm excited to bring a holistic approach to web development by bridging the gap between front-end and back-end technologies. Let's connect and build something amazing! 🚀
+</p>
+
+
+# My Professional Competencies
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,firebase,github,wordpress,mongodb,express,react,nodejs,tailwind,)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
